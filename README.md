@@ -39,7 +39,9 @@ A unique piece for true fans.
 ![schema](https://github.com/user-attachments/assets/627e3069-7aef-4c84-9475-459f3874cdbc)
 
 ---
-# 📝 Revisioni
+# 📝 Programmazione via WEB / WEB Programming
+
+https://davidegatti.altervista.org/installaEsp32.php?progetto=_DMClock 
 
 ---
 ## 🧾 Licenza
