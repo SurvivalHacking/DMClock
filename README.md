@@ -25,7 +25,7 @@ A unique piece for true fans.
 ## 🎛️ Materiali / BOM
 
 * Display C.C. 5161AS: https://s.click.aliexpress.com/e/_c3zw6A2p
-* HT16K33 BackPack: https://s.click.aliexpress.com/e/_c4MdGqzB
+* HT16K33 BackPack: https://s.click.aliexpress.com/e/_c2Q1blNZ
 * ESP32C3: https://s.click.aliexpress.com/e/_DDST7Bj
 * Button 6x6x12: https://s.click.aliexpress.com/e/_c4CBgRJJ
 * Cavo 10 poli smaltato / 10 wire cable: https://s.click.aliexpress.com/e/_c3IRqse1
