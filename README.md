@@ -36,7 +36,7 @@ A unique piece for true fans.
 
 ## 🎛️ Schema pratico di assemblaggio
 
-![schema](https://github.com/user-attachments/assets/627e3069-7aef-4c84-9475-459f3874cdbc)
+<img width="1652" height="1171" alt="Schema Pratico - Schematic" src="https://github.com/user-attachments/assets/10cd24c6-5f7a-417f-b795-91f70e798214" />
 
 ---
 # 📝 Programmazione via WEB / WEB Programming
