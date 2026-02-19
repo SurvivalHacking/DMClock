@@ -16,10 +16,10 @@ Inspired by the famous displays on Depeche Mode's single covers, this iconic obj
 It shows the time and date, but can also represent historical years, just like in the band's imagery.
 A unique piece for true fans.
 
-Difficoltà/difficulties: Difficile / Hard
-Costo/cost: 30€
-Tempo / Time: 5 ore / 5 ours
-Attrezzature extra / extra devices: Stampante 3D / 3D printer
+* Difficoltà/difficulties: Difficile / Hard
+* Costo/cost: 30€
+* Tempo / Time: 5 ore / 5 ours
+* Attrezzature extra / extra devices: Stampante 3D / 3D printer
 
 ---
 ## 🎛️ Materiali / BOM
