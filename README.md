@@ -41,7 +41,7 @@ A unique piece for true fans.
 ---
 # 📝 Programmazione via WEB / WEB Programming
 
-https://davidegatti.altervista.org/installaEsp32.php?progetto=_DMClock 
+https://davidegatti.altervista.org/installaEsp32.php?progetto=DMClock 
 
 ---
 ## 🧾 Licenza
